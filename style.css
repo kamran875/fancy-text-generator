@@ -254,7 +254,7 @@ width: 75%;
 padding-left: 0;
 }
 #random{
-width: 25%;  border-radius: 0;font-size: 15px;
+width: 25%;  border-radius: 0;font-size: 11px;
 }
 }
 @media only screen and (max-width:600px) {
